@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Snakes</string>
+    <string name="Title">Snakes and Ladder</string>
+    <string name="button">Roll it</string>
+</resources>
